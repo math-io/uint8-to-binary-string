@@ -1,6 +1,6 @@
 {
   "name": "math-uint8-bits",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Returns a string giving the literal bit representation of an unsigned 8-bit integer.",
   "author": {
     "name": "Athan Reines",
